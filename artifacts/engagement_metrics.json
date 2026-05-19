@@ -1,0 +1,83 @@
+{
+  "task": "engagement",
+  "best_model_name": "xgboost",
+  "metrics": {
+    "accuracy": 0.9779411764705882,
+    "precision": 0.9705882352941176,
+    "recall": 0.9850746268656716,
+    "f1": 0.9777777777777777,
+    "roc_auc": 0.9995673804888601,
+    "brier": 0.026607099924701665
+  },
+  "feature_columns": [
+    "platform",
+    "brand",
+    "type",
+    "followers_count",
+    "hashtag_count",
+    "mention_count",
+    "caption_len_words",
+    "caption_len_chars",
+    "sentiment_polarity",
+    "sentiment_subjectivity",
+    "post_hour",
+    "post_dayofweek",
+    "is_weekend",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos",
+    "caption"
+  ],
+  "cleaning": {
+    "social": {
+      "n_rows_before": 810,
+      "n_rows_after": 487,
+      "n_duplicates_dropped": 323,
+      "missing_before": {
+        "platform": 0,
+        "brand": 0,
+        "type": 0,
+        "followers_count": 0,
+        "hashtag_count": 0,
+        "mention_count": 0,
+        "caption_len_words": 0,
+        "caption_len_chars": 0,
+        "sentiment_polarity": 0,
+        "sentiment_subjectivity": 0,
+        "post_hour": 0,
+        "post_dayofweek": 0,
+        "is_weekend": 0,
+        "hour_sin": 0,
+        "hour_cos": 0,
+        "dow_sin": 0,
+        "dow_cos": 0,
+        "caption": 0,
+        "high_engagement_label": 0,
+        "split": 0
+      },
+      "missing_after": {
+        "platform": 0,
+        "brand": 0,
+        "type": 0,
+        "followers_count": 0,
+        "hashtag_count": 0,
+        "mention_count": 0,
+        "caption_len_words": 0,
+        "caption_len_chars": 0,
+        "sentiment_polarity": 0,
+        "sentiment_subjectivity": 0,
+        "post_hour": 0,
+        "post_dayofweek": 0,
+        "is_weekend": 0,
+        "hour_sin": 0,
+        "hour_cos": 0,
+        "dow_sin": 0,
+        "dow_cos": 0,
+        "caption": 0,
+        "high_engagement_label": 0,
+        "split": 0
+      }
+    }
+  }
+}
