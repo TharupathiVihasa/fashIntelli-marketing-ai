@@ -1,0 +1,5 @@
+model,baseline_cv_f1,tuned_cv_f1,is_best
+xgboost,0.770511090349147,0.7477310924369749,True
+random_forest,0.7584204413472706,0.7385821404226312,False
+logreg,0.7130339539978094,,False
+dummy,0.0,,False
