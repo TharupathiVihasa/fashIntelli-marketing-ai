@@ -1,0 +1,238 @@
+age_range,gender,occupation,income,platform,platform_usage_count,ad_exposure_ordinal,influencer_trust,influencer_recommend,ad_appeal,brand_engagement_trust,social_media_presence,social_proof_confidence,past_purchase_flag,overall_influence,app_helpful,influencer_credibility_score,ad_effectiveness_score,brand_trust_score,overall_smm_index,trust_x_socialproof,purchase_intention_label,split
+18-24,Female,Employed,"25,000-50,000",instagram,2,5,3,4,5,4,4,4,4,4,,3.5,5.0,4.0,4.125,12.0,0,test
+25-34,Female,Employed,"25,000-50,000",instagram,3,4,3,3,3,3,4,3,3,2,Yes,3.0,3.5,3.5,3.125,9.0,0,test
+35-44,Male,Employed,"100,000 and above",facebook,1,3,3,3,3,3,3,3,3,3,Yes,3.0,3.0,3.0,3.0,9.0,0,test
+45 and above,Male,Unemployed,"50,000-100,000",facebook,2,4,3,3,3,3,2,3,3,3,Yes,3.0,3.5,2.5,3.0,9.0,0,test
+35-44,Male,Other,"100,000 and above",facebook,1,2,2,3,3,3,3,4,4,4,Yes,2.5,2.5,3.0,3.0,8.0,1,test
+18-24,Female,Employed,"100,000 and above",instagram,4,5,5,5,4,4,4,4,4,5,Yes,5.0,4.5,4.0,4.5,20.0,1,test
+25-34,Female,Employed,"25,000-50,000",facebook,2,4,3,4,3,4,2,4,5,3,Yes,3.5,3.5,3.0,3.375,12.0,0,test
+45 and above,Male,Employed,Prefer not to disclose,facebook,1,3,3,3,4,4,4,4,5,3,Yes,3.0,3.5,4.0,3.5,12.0,1,test
+35-44,Male,Employed,"100,000 and above",instagram,1,5,4,4,5,5,4,4,3,4,Yes,4.0,5.0,4.5,4.375,16.0,0,test
+35-44,Female,Employed,"25,000-50,000",tiktok,2,3,3,4,4,4,4,4,4,4,Yes,3.5,3.5,4.0,3.75,12.0,1,test
+25-34,Female,Other,"100,000 and above",tiktok,1,3,2,3,4,4,4,3,2,4,Yes,2.5,3.5,4.0,3.375,6.0,0,test
+25-34,Female,Employed,"25,000-50,000",facebook,1,3,3,4,3,4,3,4,4,3,Yes,3.5,3.0,3.5,3.375,12.0,0,test
+35-44,Male,Employed,"50,000-100,000",facebook,1,3,3,4,4,4,3,3,2,4,Yes,3.5,3.5,3.5,3.5,9.0,0,test
+25-34,Male,Employed,"Below 25,000",instagram,2,4,4,4,4,4,4,4,4,4,Yes,4.0,4.0,4.0,4.0,16.0,1,test
+25-34,Female,Employed,"50,000-100,000",facebook,1,3,5,5,4,4,4,4,5,5,Yes,5.0,3.5,4.0,4.25,20.0,1,test
+25-34,Female,Employed,"100,000 and above",facebook,2,4,3,3,3,4,4,4,3,4,Yes,3.0,3.5,4.0,3.625,12.0,0,test
+25-34,Male,Employed,"100,000 and above",instagram,3,5,5,4,3,4,5,4,3,3,Yes,4.5,4.0,4.5,4.125,20.0,0,test
+25-34,Female,Employed,"25,000-50,000",instagram,2,4,5,4,4,4,4,3,3,3,Yes,4.5,4.0,4.0,3.875,15.0,0,test
+25-34,Male,Employed,"50,000-100,000",instagram,2,5,5,4,5,3,3,3,3,5,Yes,4.5,5.0,3.0,4.125,15.0,1,test
+25-34,Female,Student,"Below 25,000",instagram,3,4,2,4,5,4,4,4,4,3,Yes,3.0,4.5,4.0,3.75,8.0,0,test
+35-44,Prefer not to say,Employed,"100,000 and above",twitter,1,5,2,1,5,2,2,4,5,4,Yes,1.5,5.0,2.0,3.125,8.0,1,test
+35-44,Female,Other,"100,000 and above",tiktok,1,5,1,2,2,2,2,1,5,3,Yes,1.5,3.5,2.0,2.25,1.0,1,test
+25-34,Female,Unemployed,Prefer not to disclose,tiktok,1,4,1,1,1,4,5,3,3,3,Yes,1.0,2.5,4.5,2.75,3.0,0,test
+35-44,Male,Employed,"100,000 and above",instagram,1,4,4,4,3,3,3,3,4,4,Yes,4.0,3.5,3.0,3.5,12.0,1,test
+35-44,Female,Employed,"50,000-100,000",tiktok,1,3,4,2,2,2,2,3,4,1,Yes,3.0,2.5,2.0,2.375,12.0,0,test
+45 and above,Male,Other,Prefer not to disclose,youtube,1,5,1,1,1,1,1,1,5,2,Yes,1.0,3.0,1.0,1.625,1.0,0,test
+35-44,Female,Employed,"100,000 and above",facebook,1,4,2,2,1,2,1,2,1,1,Yes,2.0,2.5,1.5,1.875,4.0,0,test
+25-34,Male,Employed,"100,000 and above",facebook,2,4,4,3,4,5,4,4,4,4,Yes,3.5,4.0,4.5,4.0,16.0,1,test
+35-44,Female,Unemployed,Prefer not to disclose,twitter,1,5,1,2,3,1,3,3,3,3,Yes,1.5,4.0,2.0,2.625,3.0,0,test
+18-24,Female,Student,Prefer not to disclose,instagram,4,5,3,4,3,5,4,3,5,4,Yes,3.5,4.0,4.5,3.875,9.0,1,test
+35-44,Male,Employed,"100,000 and above",facebook,1,5,3,4,4,5,3,5,4,3,Yes,3.5,4.5,4.0,4.0,15.0,0,test
+35-44,Female,Employed,"100,000 and above",instagram,4,4,4,4,4,4,4,5,3,4,Yes,4.0,4.0,4.0,4.125,20.0,0,test
+35-44,Prefer not to say,Unemployed,"100,000 and above",tiktok,1,2,2,1,4,2,2,1,2,1,Yes,1.5,3.0,2.0,1.875,2.0,0,test
+25-34,Female,Student,"Below 25,000",facebook,2,3,3,3,4,4,4,4,3,4,Yes,3.0,3.5,4.0,3.625,12.0,0,test
+25-34,Female,Employed,"50,000-100,000",instagram,1,5,1,2,1,2,2,2,2,2,Yes,1.5,3.0,2.0,2.125,2.0,0,test
+25-34,Female,Student,"Below 25,000",instagram,2,3,4,4,4,4,4,4,4,4,Yes,4.0,3.5,4.0,3.875,16.0,1,test
+35-44,Prefer not to say,Unemployed,"100,000 and above",tiktok,1,3,1,3,1,1,3,1,5,2,Yes,2.0,2.0,2.0,1.875,1.0,0,test
+25-34,Prefer not to say,Unemployed,"100,000 and above",youtube,1,3,3,1,1,5,4,3,2,1,Yes,2.0,2.0,4.5,2.625,9.0,0,test
+25-34,Female,Employed,"50,000-100,000",instagram,4,3,4,4,4,5,4,5,3,5,Yes,4.0,3.5,4.5,4.25,20.0,1,test
+35-44,Female,Employed,"50,000-100,000",instagram,3,4,4,4,4,4,4,4,4,4,Yes,4.0,4.0,4.0,4.0,16.0,1,test
+25-34,Male,Employed,"50,000-100,000",facebook,2,4,4,4,4,4,3,5,4,5,Yes,4.0,4.0,3.5,4.125,20.0,1,test
+45 and above,Male,Employed,"100,000 and above",facebook,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+18-24,Female,Student,"Below 25,000",instagram,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+45 and above,Female,Other,"100,000 and above",twitter,1,5,3,5,5,4,5,4,4,4,Yes,4.0,5.0,4.5,4.375,12.0,1,test
+45 and above,Male,Employed,"50,000-100,000",facebook,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Male,Employed,"25,000-50,000",facebook,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+35-44,Male,Employed,"50,000-100,000",tiktok,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+45 and above,Female,Employed,"100,000 and above",instagram,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Male,Employed,"Below 25,000",facebook,1,3,5,5,4,5,5,5,5,5,Yes,5.0,3.5,5.0,4.625,25.0,1,test
+45 and above,Female,Employed,"25,000-50,000",instagram,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Male,Employed,"Below 25,000",instagram,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Male,Employed,"50,000-100,000",tiktok,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+45 and above,Male,Employed,"25,000-50,000",tiktok,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Male,Employed,"50,000-100,000",instagram,3,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Female,Employed,"50,000-100,000",facebook,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+45 and above,Female,Employed,"25,000-50,000",youtube,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Male,Employed,"Below 25,000",facebook,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+35-44,Female,Employed,"50,000-100,000",facebook,2,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Male,Employed,"50,000-100,000",facebook,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Male,Employed,"50,000-100,000",facebook,2,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Female,Employed,"25,000-50,000",facebook,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+45 and above,Male,Employed,"100,000 and above",instagram,2,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Male,Employed,"25,000-50,000",facebook,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+45 and above,Female,Other,"100,000 and above",twitter,1,5,5,4,5,4,4,4,3,4,Yes,4.5,5.0,4.0,4.375,20.0,0,test
+18-24,Female,Unemployed,"50,000-100,000",facebook,1,2,1,4,5,4,5,4,4,4,Yes,2.5,3.5,4.5,3.625,4.0,1,test
+25-34,Female,Employed,"25,000-50,000",tiktok,1,4,5,5,5,4,4,4,4,5,Yes,5.0,4.5,4.0,4.5,20.0,1,test
+35-44,Male,Other,"50,000-100,000",youtube,1,4,5,4,5,5,4,4,5,4,Yes,4.5,4.5,4.5,4.375,20.0,1,test
+35-44,Prefer not to say,Employed,"25,000-50,000",tiktok,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+45 and above,Male,Employed,"100,000 and above",facebook,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+35-44,Male,Employed,"50,000-100,000",instagram,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+35-44,Female,Employed,"Below 25,000",facebook,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+35-44,Female,Employed,"25,000-50,000",facebook,3,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Female,Employed,"50,000-100,000",tiktok,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+35-44,Female,Employed,"50,000-100,000",youtube,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+45 and above,Female,Employed,"100,000 and above",instagram,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+35-44,Male,Employed,"25,000-50,000",tiktok,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Female,Employed,"100,000 and above",instagram,4,4,3,3,2,3,3,4,4,3,Yes,3.0,3.0,3.0,3.125,12.0,0,test
+45 and above,Male,Employed,"100,000 and above",facebook,2,2,4,5,5,4,4,4,5,4,Yes,4.5,3.5,4.0,4.0,16.0,1,test
+18-24,Female,Student,Prefer not to disclose,instagram,4,5,5,5,5,5,5,4,5,4,Yes,5.0,5.0,5.0,4.75,20.0,1,test
+25-34,Female,Unemployed,"50,000-100,000",tiktok,1,4,1,1,1,3,4,4,4,2,Yes,1.0,2.5,3.5,2.5,4.0,0,test
+45 and above,Female,Other,"100,000 and above",twitter,1,5,4,4,5,4,4,4,3,4,Yes,4.0,5.0,4.0,4.25,16.0,0,test
+45 and above,Female,Unemployed,"50,000-100,000",tiktok,1,5,1,2,2,3,2,1,2,1,Yes,1.5,3.5,2.5,2.125,1.0,0,test
+35-44,Prefer not to say,Unemployed,"100,000 and above",tiktok,1,3,1,3,1,1,3,1,5,2,Yes,2.0,2.0,2.0,1.875,1.0,0,test
+25-34,Male,Employed,"50,000-100,000",facebook,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Female,Employed,"50,000-100,000",facebook,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Female,Employed,"50,000-100,000",facebook,1,3,5,5,4,4,3,4,5,5,Yes,5.0,3.5,3.5,4.125,20.0,1,test
+25-34,Female,Employed,"50,000-100,000",instagram,4,3,4,4,4,5,4,5,3,5,Yes,4.0,3.5,4.5,4.25,20.0,1,test
+35-44,Prefer not to say,Unemployed,"100,000 and above",tiktok,1,3,1,3,1,1,3,1,5,2,Yes,2.0,2.0,2.0,1.875,1.0,0,test
+35-44,Female,Employed,"Below 25,000",facebook,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+45 and above,Female,Employed,"100,000 and above",tiktok,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Male,Employed,"50,000-100,000",tiktok,2,3,4,5,5,5,5,5,5,4,Yes,4.5,4.0,5.0,4.5,20.0,1,test
+45 and above,Male,Employed,"25,000-50,000",tiktok,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+35-44,Male,Other,"50,000-100,000",youtube,1,4,5,4,4,5,4,4,5,4,Yes,4.5,4.0,4.5,4.25,20.0,1,test
+18-24,Female,Student,"Below 25,000",instagram,2,4,2,2,5,3,3,4,4,2,Yes,2.0,4.5,3.0,3.125,8.0,0,test
+35-44,Male,Employed,"50,000-100,000",tiktok,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+45 and above,Male,Employed,"50,000-100,000",twitter,1,5,4,5,5,5,4,5,4,3,Yes,4.5,5.0,4.5,4.5,20.0,0,test
+45 and above,Female,Employed,"50,000-100,000",facebook,2,4,4,4,5,5,4,4,3,4,Yes,4.0,4.5,4.5,4.25,16.0,0,test
+18-24,Female,Student,"100,000 and above",youtube,1,4,5,4,4,4,5,3,2,3,Yes,4.5,4.0,4.5,4.0,15.0,0,test
+35-44,Prefer not to say,Unemployed,"100,000 and above",youtube,1,4,1,1,3,2,1,2,1,3,Yes,1.0,3.5,1.5,2.125,2.0,0,test
+45 and above,Male,Employed,"100,000 and above",instagram,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Female,Employed,"25,000-50,000",instagram,3,3,3,4,3,4,4,4,4,3,Yes,3.5,3.0,4.0,3.5,12.0,0,test
+45 and above,Male,Employed,"50,000-100,000",twitter,1,5,4,4,4,5,4,5,4,2,Yes,4.0,4.5,4.5,4.125,20.0,0,test
+45 and above,Male,Employed,"25,000-50,000",facebook,3,4,3,4,3,5,5,5,4,5,Yes,3.5,3.5,5.0,4.25,15.0,1,test
+25-34,Male,Student,"Below 25,000",instagram,2,2,3,2,3,3,2,2,3,2,Yes,2.5,2.5,2.5,2.375,6.0,0,test
+25-34,Female,Employed,"25,000-50,000",instagram,3,4,3,3,3,3,4,3,3,2,Yes,3.0,3.5,3.5,3.125,9.0,0,test
+35-44,Female,Unemployed,"50,000-100,000",tiktok,2,3,4,5,4,4,5,3,4,5,Yes,4.5,3.5,4.5,4.125,12.0,1,test
+25-34,Male,Student,"Below 25,000",instagram,4,4,3,3,4,4,4,4,5,3,Yes,3.0,4.0,4.0,3.625,12.0,0,test
+35-44,Male,Employed,"50,000-100,000",youtube,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Male,Student,"Below 25,000",instagram,2,3,3,3,3,4,3,2,2,2,No,3.0,3.0,3.5,2.875,6.0,0,test
+25-34,Male,Employed,"Below 25,000",instagram,2,4,4,4,4,4,4,4,4,4,Yes,4.0,4.0,4.0,4.0,16.0,1,test
+45 and above,Female,Unemployed,Prefer not to disclose,youtube,1,4,4,4,4,4,4,3,3,5,Yes,4.0,4.0,4.0,4.0,12.0,1,test
+45 and above,Female,Employed,"25,000-50,000",instagram,2,4,5,5,4,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+45 and above,Male,Employed,"25,000-50,000",tiktok,1,3,5,5,4,5,5,5,5,5,Yes,5.0,3.5,5.0,4.625,25.0,1,test
+35-44,Prefer not to say,Other,"50,000-100,000",youtube,1,2,5,4,4,4,5,4,5,4,Yes,4.5,3.0,4.5,4.0,20.0,1,test
+25-34,Male,Student,"Below 25,000",instagram,2,2,3,1,3,3,2,2,3,3,Yes,2.0,2.5,2.5,2.375,6.0,0,test
+25-34,Male,Employed,"50,000-100,000",instagram,2,3,4,4,3,3,3,3,3,3,Yes,4.0,3.0,3.0,3.25,12.0,0,test
+25-34,Female,Employed,"50,000-100,000",facebook,1,4,5,5,5,5,5,5,4,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+35-44,Male,Other,"50,000-100,000",instagram,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Female,Student,"50,000-100,000",youtube,1,5,1,2,2,2,1,2,2,3,,1.5,3.5,1.5,2.25,2.0,0,test
+45 and above,Male,Employed,"100,000 and above",instagram,2,3,4,5,5,5,5,5,5,5,Yes,4.5,4.0,5.0,4.625,20.0,1,test
+25-34,Female,Employed,"50,000-100,000",tiktok,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Female,Unemployed,Prefer not to disclose,tiktok,1,4,1,1,1,4,5,3,3,3,Yes,1.0,2.5,4.5,2.75,3.0,0,test
+35-44,Female,Employed,"100,000 and above",instagram,3,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+35-44,Female,Employed,"100,000 and above",twitter,1,5,2,3,3,4,4,3,5,5,Yes,2.5,4.0,4.0,3.625,6.0,1,test
+25-34,Male,Employed,"50,000-100,000",instagram,2,5,5,4,5,3,3,3,3,5,Yes,4.5,5.0,3.0,4.125,15.0,1,test
+35-44,Female,Employed,"50,000-100,000",instagram,2,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+45 and above,Male,Employed,"25,000-50,000",facebook,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+35-44,Prefer not to say,Unemployed,"100,000 and above",tiktok,1,2,2,1,4,2,2,1,2,1,Yes,1.5,3.0,2.0,1.875,2.0,0,test
+45 and above,Female,Other,"50,000-100,000",instagram,2,4,4,3,5,5,3,4,4,3,Yes,3.5,4.5,4.0,3.875,16.0,0,test
+25-34,Female,Employed,"25,000-50,000",facebook,1,3,3,4,3,4,3,4,3,2,Yes,3.5,3.0,3.5,3.25,12.0,0,test
+18-24,Female,Employed,"100,000 and above",instagram,4,5,5,5,4,4,4,4,4,5,Yes,5.0,4.5,4.0,4.5,20.0,1,test
+45 and above,Male,Unemployed,"50,000-100,000",facebook,2,4,3,3,3,3,2,3,3,3,Yes,3.0,3.5,2.5,3.0,9.0,0,test
+35-44,Female,Employed,"50,000-100,000",twitter,1,2,5,5,5,5,5,5,5,5,Yes,5.0,3.5,5.0,4.625,25.0,1,test
+35-44,Female,Employed,"100,000 and above",youtube,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+35-44,Female,Employed,"50,000-100,000",instagram,1,5,2,2,1,2,2,1,2,2,Yes,2.0,3.0,2.0,2.125,2.0,0,test
+45 and above,Female,Employed,"25,000-50,000",facebook,2,3,5,5,5,4,4,4,5,4,Yes,5.0,4.0,4.0,4.25,20.0,1,test
+18-24,Male,Employed,"Below 25,000",instagram,4,4,4,3,3,3,1,1,2,1,Maybe,3.5,3.5,2.0,2.5,4.0,0,test
+25-34,Female,Employed,"50,000-100,000",tiktok,2,5,5,5,5,5,5,5,4,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+18-24,Male,Student,"Below 25,000",facebook,2,5,3,4,5,5,3,5,1,2,Maybe,3.5,5.0,4.0,4.0,15.0,0,test
+25-34,Female,Student,"Below 25,000",instagram,3,4,2,3,5,4,4,4,4,3,Yes,2.5,4.5,4.0,3.625,8.0,0,test
+18-24,Female,Student,"Below 25,000",instagram,3,3,2,2,4,4,4,3,4,3,Yes,2.0,3.5,4.0,3.125,6.0,0,test
+45 and above,Male,Other,Prefer not to disclose,youtube,1,5,1,1,1,1,1,1,5,2,Yes,1.0,3.0,1.0,1.625,1.0,0,test
+35-44,Male,Employed,"25,000-50,000",tiktok,1,5,4,5,5,5,5,5,5,5,Yes,4.5,5.0,5.0,4.875,20.0,1,test
+25-34,Male,Employed,"25,000-50,000",facebook,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Female,Employed,"50,000-100,000",facebook,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+18-24,Female,Student,"100,000 and above",youtube,1,4,5,4,4,4,5,3,2,3,Yes,4.5,4.0,4.5,4.0,15.0,0,test
+35-44,Female,Employed,"25,000-50,000",facebook,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Female,Unemployed,Prefer not to disclose,youtube,1,5,4,4,4,3,3,4,5,3,Yes,4.0,4.5,3.0,3.75,16.0,1,test
+25-34,Female,Unemployed,"50,000-100,000",tiktok,1,3,2,3,3,3,2,2,1,2,Yes,2.5,3.0,2.5,2.5,4.0,0,test
+25-34,Female,Employed,"50,000-100,000",tiktok,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+45 and above,Male,Employed,"100,000 and above",facebook,2,4,5,4,5,5,5,5,5,5,Yes,4.5,4.5,5.0,4.75,25.0,1,test
+25-34,Female,Employed,"25,000-50,000",tiktok,1,4,5,5,5,4,4,4,4,5,Yes,5.0,4.5,4.0,4.5,20.0,1,test
+35-44,Male,Employed,"100,000 and above",facebook,1,3,3,3,3,3,3,3,3,3,Yes,3.0,3.0,3.0,3.0,9.0,0,test
+35-44,Male,Employed,"50,000-100,000",tiktok,2,5,4,5,5,5,5,5,5,5,Yes,4.5,5.0,5.0,4.875,20.0,1,test
+35-44,Female,Unemployed,Prefer not to disclose,twitter,1,3,1,1,3,3,2,3,2,2,Yes,1.0,3.0,2.5,2.25,3.0,0,test
+45 and above,Female,Employed,"25,000-50,000",instagram,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+45 and above,Male,Employed,"25,000-50,000",youtube,1,3,4,4,4,4,4,4,4,5,Yes,4.0,3.5,4.0,4.0,16.0,1,test
+25-34,Male,Student,"25,000-50,000",instagram,4,4,2,1,4,3,3,3,4,3,Maybe,1.5,4.0,3.0,2.875,6.0,0,test
+45 and above,Male,Unemployed,"25,000-50,000",youtube,1,3,4,3,3,4,2,3,3,2,Maybe,3.5,3.0,3.0,3.0,12.0,0,test
+45 and above,Female,Employed,"50,000-100,000",instagram,3,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+18-24,Female,Other,"100,000 and above",tiktok,1,5,1,2,4,3,1,1,1,1,Yes,1.5,4.5,2.0,2.25,1.0,0,test
+18-24,Female,Student,"Below 25,000",instagram,2,4,2,2,5,3,3,4,4,2,Yes,2.0,4.5,3.0,3.125,8.0,0,test
+35-44,Female,Unemployed,"50,000-100,000",tiktok,1,4,5,5,5,5,4,5,5,5,Yes,5.0,4.5,4.5,4.75,25.0,1,test
+35-44,Female,Employed,"50,000-100,000",instagram,4,4,4,4,4,4,5,5,4,5,Yes,4.0,4.0,4.5,4.375,20.0,1,test
+35-44,Male,Employed,"Below 25,000",instagram,2,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Female,Employed,"50,000-100,000",instagram,3,4,3,3,4,5,4,5,3,5,Yes,3.0,4.0,4.5,4.125,15.0,1,test
+35-44,Male,Employed,"50,000-100,000",youtube,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+35-44,Male,Employed,"50,000-100,000",tiktok,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+45 and above,Female,Employed,"25,000-50,000",facebook,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Male,Student,"25,000-50,000",instagram,4,4,2,1,4,3,3,3,4,3,Maybe,1.5,4.0,3.0,2.875,6.0,0,test
+35-44,Female,Other,Prefer not to disclose,youtube,1,4,1,1,2,2,2,3,3,4,Yes,1.0,3.0,2.0,2.375,3.0,1,test
+45 and above,Female,Employed,"25,000-50,000",tiktok,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+18-24,Male,Student,"Below 25,000",facebook,1,3,5,5,4,4,5,4,4,4,Yes,5.0,3.5,4.5,4.25,20.0,1,test
+25-34,Female,Unemployed,"Below 25,000",facebook,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Female,Unemployed,"Below 25,000",facebook,1,3,5,5,5,4,5,5,5,5,Yes,5.0,4.0,4.5,4.625,25.0,1,test
+35-44,Male,Employed,Prefer not to disclose,instagram,3,4,3,4,3,4,4,4,3,5,Yes,3.5,3.5,4.0,3.875,12.0,1,test
+45 and above,Male,Unemployed,"50,000-100,000",facebook,2,4,3,3,3,3,2,2,3,3,Yes,3.0,3.5,2.5,2.875,6.0,0,test
+45 and above,Female,Other,"50,000-100,000",instagram,2,4,4,3,4,5,4,4,4,3,Yes,3.5,4.0,4.5,3.875,16.0,0,test
+25-34,Male,Employed,"100,000 and above",instagram,2,2,2,2,3,2,2,3,2,1,Yes,2.0,2.5,2.0,2.125,6.0,0,test
+35-44,Male,Employed,"100,000 and above",instagram,1,4,4,4,3,3,3,3,4,4,Yes,4.0,3.5,3.0,3.5,12.0,0,test
+25-34,Male,Student,"Below 25,000",instagram,2,2,3,2,3,3,2,2,3,3,Yes,2.5,2.5,2.5,2.5,6.0,0,test
+25-34,Female,Employed,"50,000-100,000",instagram,1,5,2,2,2,1,1,1,2,1,Yes,2.0,3.5,1.0,1.875,2.0,0,test
+35-44,Female,Other,"100,000 and above",facebook,3,4,2,2,2,4,4,2,4,3,Yes,2.0,3.0,4.0,2.875,4.0,0,test
+45 and above,Male,Other,Prefer not to disclose,facebook,2,2,2,1,2,2,1,2,1,2,No,1.5,2.0,1.5,1.75,4.0,0,test
+45 and above,Male,Employed,"50,000-100,000",youtube,2,5,5,4,5,5,5,5,5,5,Yes,4.5,5.0,5.0,4.875,25.0,1,test
+35-44,Female,Employed,"Below 25,000",instagram,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+35-44,Male,Employed,"25,000-50,000",tiktok,1,4,5,5,4,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Male,Employed,"50,000-100,000",instagram,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Male,Student,"Below 25,000",instagram,2,2,3,2,3,3,2,2,3,3,Yes,2.5,2.5,2.5,2.5,6.0,0,test
+45 and above,Female,Employed,"25,000-50,000",instagram,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Male,Employed,"50,000-100,000",facebook,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+35-44,Male,Employed,"25,000-50,000",facebook,4,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+35-44,Male,Employed,"50,000-100,000",instagram,3,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+18-24,Male,Employed,"25,000-50,000",facebook,1,3,2,2,2,2,2,3,3,2,Yes,2.0,2.5,2.0,2.25,6.0,0,test
+35-44,Female,Other,"100,000 and above",facebook,3,4,2,2,1,4,4,2,3,3,Yes,2.0,2.5,4.0,2.75,4.0,0,test
+35-44,Prefer not to say,Other,"100,000 and above",youtube,1,5,5,3,2,5,3,2,1,3,Yes,4.0,3.5,4.0,3.5,10.0,0,test
+25-34,Female,Employed,"Below 25,000",instagram,2,4,3,3,4,4,3,4,4,5,Yes,3.0,4.0,3.5,3.75,12.0,1,test
+18-24,Male,Employed,"25,000-50,000",instagram,2,5,5,4,4,4,4,4,4,5,Yes,4.5,4.5,4.0,4.375,20.0,1,test
+35-44,Prefer not to say,Employed,"50,000-100,000",twitter,1,5,1,2,3,2,2,3,2,1,Yes,1.5,4.0,2.0,2.375,3.0,0,test
+25-34,Male,Employed,"50,000-100,000",facebook,2,5,5,5,5,5,4,5,5,5,Yes,5.0,5.0,4.5,4.875,25.0,1,test
+35-44,Female,Employed,"25,000-50,000",tiktok,2,4,4,4,4,4,2,3,3,3,Maybe,4.0,4.0,3.0,3.5,12.0,0,test
+25-34,Female,Employed,"50,000-100,000",instagram,4,3,4,4,4,5,4,5,3,5,Yes,4.0,3.5,4.5,4.25,20.0,1,test
+35-44,Prefer not to say,Other,"50,000-100,000",tiktok,1,4,1,1,3,2,2,4,5,1,Yes,1.0,3.5,2.0,2.25,4.0,0,test
+45 and above,Male,Employed,"50,000-100,000",youtube,2,5,5,4,5,5,5,5,5,5,Yes,4.5,5.0,5.0,4.875,25.0,1,test
+25-34,Male,Employed,"100,000 and above",instagram,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+45 and above,Male,Employed,"25,000-50,000",facebook,3,4,3,4,3,4,5,5,4,5,Yes,3.5,3.5,4.5,4.125,15.0,1,test
+45 and above,Female,Employed,"25,000-50,000",youtube,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Male,Employed,"50,000-100,000",facebook,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+25-34,Female,Employed,"50,000-100,000",instagram,1,5,4,4,4,4,5,5,5,5,Yes,4.0,4.5,4.5,4.5,20.0,1,test
+35-44,Female,Employed,"50,000-100,000",facebook,2,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+35-44,Female,Employed,"100,000 and above",twitter,1,5,2,3,3,4,4,3,5,4,Yes,2.5,4.0,4.0,3.5,6.0,1,test
+35-44,Female,Employed,"50,000-100,000",twitter,1,2,5,4,5,5,5,5,5,5,Yes,4.5,3.5,5.0,4.5,25.0,1,test
+35-44,Female,Employed,"50,000-100,000",instagram,4,4,3,3,4,4,4,4,3,2,Maybe,3.0,4.0,4.0,3.5,12.0,0,test
+35-44,Male,Other,Prefer not to disclose,tiktok,1,5,1,2,4,4,4,2,2,1,Yes,1.5,4.5,4.0,2.875,2.0,0,test
+25-34,Female,Employed,"50,000-100,000",tiktok,1,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+45 and above,Female,Employed,"100,000 and above",instagram,2,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+18-24,Female,Student,"Below 25,000",instagram,2,4,3,2,5,3,3,4,4,2,Yes,2.5,4.5,3.0,3.25,12.0,0,test
+35-44,Female,Employed,"100,000 and above",facebook,1,4,2,2,1,2,1,2,1,1,Yes,2.0,2.5,1.5,1.875,4.0,0,test
+35-44,Male,Employed,"100,000 and above",instagram,1,5,5,5,5,5,5,5,5,5,Yes,5.0,5.0,5.0,5.0,25.0,1,test
+25-34,Male,Employed,"25,000-50,000",facebook,2,4,5,5,5,5,5,5,5,5,Yes,5.0,4.5,5.0,4.875,25.0,1,test
+18-24,Female,Employed,"100,000 and above",instagram,4,5,5,5,4,4,4,4,4,5,Yes,5.0,4.5,4.0,4.5,20.0,1,test
+25-34,Male,Employed,"50,000-100,000",facebook,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+35-44,Female,Employed,"100,000 and above",instagram,3,4,5,5,5,5,5,5,5,4,Yes,5.0,4.5,5.0,4.75,25.0,1,test
+35-44,Female,Employed,"Below 25,000",youtube,1,5,4,5,5,5,5,5,5,5,Yes,4.5,5.0,5.0,4.875,20.0,1,test
+35-44,Female,Student,Prefer not to disclose,facebook,1,3,1,3,3,2,2,1,1,2,Yes,2.0,3.0,2.0,2.125,1.0,0,test
+18-24,Prefer not to say,Unemployed,"Below 25,000",instagram,3,3,3,3,3,3,3,3,3,2,Maybe,3.0,3.0,3.0,2.875,9.0,0,test
+25-34,Female,Other,Prefer not to disclose,instagram,3,4,3,4,3,4,4,4,3,4,Yes,3.5,3.5,4.0,3.75,12.0,0,test
+18-24,Female,Student,"100,000 and above",youtube,1,4,5,5,4,4,5,3,2,3,Yes,5.0,4.0,4.5,4.125,15.0,0,test
+25-34,Female,Employed,"50,000-100,000",instagram,3,4,4,4,5,5,5,5,5,5,Yes,4.0,4.5,5.0,4.625,20.0,1,test
+25-34,Female,Employed,"Below 25,000",instagram,2,4,3,3,4,4,3,4,4,5,Yes,3.0,4.0,3.5,3.75,12.0,1,test
+45 and above,Male,Employed,"50,000-100,000",tiktok,2,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+18-24,Male,Employed,"25,000-50,000",facebook,1,3,2,2,2,2,2,3,3,2,Yes,2.0,2.5,2.0,2.25,6.0,0,test
+35-44,Female,Employed,"100,000 and above",instagram,3,5,2,3,3,4,3,3,2,2,Yes,2.5,4.0,3.5,3.125,6.0,0,test
+45 and above,Male,Employed,"100,000 and above",instagram,2,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+45 and above,Male,Employed,"100,000 and above",facebook,1,5,2,2,3,3,2,3,3,3,Yes,2.0,4.0,2.5,2.875,6.0,0,test
+25-34,Male,Employed,"50,000-100,000",facebook,1,3,5,5,5,5,5,5,5,5,Yes,5.0,4.0,5.0,4.75,25.0,1,test
+25-34,Female,Student,"Below 25,000",instagram,3,3,3,4,3,3,3,4,2,3,Yes,3.5,3.0,3.0,3.25,12.0,0,test

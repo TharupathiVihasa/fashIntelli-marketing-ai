@@ -1,0 +1,9 @@
+<svg width="240" height="64" viewBox="0 0 240 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#111827" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M22 42V20h22v5H28v4h14v5H28v8h-6z" fill="#F9FAFB"/>
+  <path d="M50 20h-6v22h6V20z" fill="#F9FAFB"/>
+  <text x="74" y="26" fill="#E2E8F0" font-size="15" font-family="Arial" font-weight="700">FashIntelli</text>
+  <text x="74" y="44" fill="#CBD5E1" font-size="10" font-family="Arial">ML + XAI marketing insights</text>
+  <circle cx="224" cy="24" r="6" fill="#38BDF8"/>
+  <circle cx="224" cy="40" r="6" fill="#A78BFA"/>
+</svg>

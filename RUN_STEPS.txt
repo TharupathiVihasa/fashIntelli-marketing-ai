@@ -1,0 +1,48 @@
+FASHINTELLI - RUN STEPS
+
+BEST METHOD
+1. Extract the ZIP to a fresh folder.
+2. Open the folder in PyCharm.
+3. Use Python 3.10 or 3.11.
+4. If you used an older version before, delete:
+   backend/storage/fashintelli.db
+5. Open terminal and run:
+
+   cd backend
+   pip install -r requirements.txt
+   python -m uvicorn app.main:app --reload --port 8000
+
+6. Open:
+   GUI:      http://localhost:8000
+   API:      http://localhost:8000/api
+   DOCS:     http://localhost:8000/docs
+   HEALTH:   http://localhost:8000/api/health
+
+DEFAULT ACCOUNTS
+Analyst: analyst@example.com / Analyst123!
+User:    user@example.com / User12345!
+
+SIGN UP
+- New standard users can create an account from the home page.
+- If the email already exists, the system shows: User already exists.
+
+OPTIONAL FRONTEND SOURCE MODE
+Only use this if you want to work on the frontend source manually.
+
+   cd frontend
+   npm install
+   npm run dev
+
+NOTES
+- The backend already serves the completed GUI.
+- The landing page is simplified.
+- Analyst-only details are restricted to the analytics area.
+- Users can download a PDF summary and sample datasets.
+- Charts now use named axes and clearer color separation.
+
+
+ANALYST DATASET UPLOAD
+- Sign in as an analyst.
+- Open the Datasets tab.
+- Upload a survey file and/or social file using the same columns as the included templates.
+- You can tick Train immediately after upload to refresh the user-side outputs in one step.
